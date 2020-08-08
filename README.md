@@ -1,5 +1,6 @@
 # nbullets-game
-A game based off of the popular 10 Bullets, with a customizable number of bullets.
+A game based off of the popular 10 Bullets, with a customizable number of bullets.  
+Tests are located in ExamplesWorld class.
 
 ## Installation
 Download the zip or clone the repository to your PC.
